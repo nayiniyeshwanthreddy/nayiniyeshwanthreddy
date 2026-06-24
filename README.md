@@ -2,8 +2,7 @@
 
 - 🔭 I’m a Software Engineer (`Java`, `Spring Boot`, `AWS`, `Data Engineering`)
 - 🧠 I’m currently exploring JVM internals and distributed systems
-- ✍️ I write about tech on [Medium](https://medium.com/@yeshwanthreddynayini)
-- 💬 Ask me about Java performance, AWS, or system design
+- ✍️ I write about tech on [Medium](https://medium.com/@yeshwanthreddynayini)- 🌐 View my [Resume & Portfolio](https://nayiniyeshwanthreddy.github.io)- 💬 Ask me about Java performance, AWS, or system design
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yeshwathreddynayini/)
 
 ### 🚀 Tech Stack
